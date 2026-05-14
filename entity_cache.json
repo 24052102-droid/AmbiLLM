@@ -1,0 +1,1162 @@
+{
+    "Ryder Carson": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Aurora Innovations": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "the Marriott Hotel": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Seattle": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Alex Chen": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "McKinsey & Company": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Tokyo": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Sony": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Kara Patel": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "the Tokyo Chamber of Commerce": {
+        "exists": true,
+        "matched_title": "Chamber of commerce",
+        "summary": "A chamber of commerce, or board of trade, is a business network, a local organization of businesses whose goal is to further the interests of businesses. Business owners in towns and cities form these"
+    },
+    "Hong Kong": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Maria Rodriguez": {
+        "exists": true,
+        "matched_title": "Ana María Rodríguez (alpine skier)",
+        "summary": "Disambiguated entity"
+    },
+    "the Ritz-Carlton": {
+        "exists": true,
+        "matched_title": "The Ritz-Carlton Hotel Company",
+        "summary": "The Ritz-Carlton Hotel Company, LLC is an American multinational company that operates the luxury hotel chain known as The Ritz-Carlton. The company has 108 luxury hotels and resorts in 30 countries a"
+    },
+    "Regina Patel": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "NovaTech": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Manhattan": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Eastern Europe": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Lena Rodriguez": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "San Francisco": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Raj Patel": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Mumbai": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Terra Verde": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Emily Chen": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "McKinsey & Company's": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Kaitlyn Lee": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Atlas Global": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Singapore": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Samantha Lee": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Aurora Enterprises": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Zephyr Industries": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Maeve O'Connor": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "GreenTech Inc.": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Silicon Valley": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Alexis Chen": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Shibuya district": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Maeve Thompson": {
+        "exists": true,
+        "matched_title": "Demos (UK think tank)",
+        "summary": "Demos is a cross-party think tank based in the United Kingdom with a cross-party political viewpoint. Founded in 1993, Demos works with a number of partners including government departments, public se"
+    },
+    "Simone Thompson": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "TechCorp": {
+        "exists": true,
+        "matched_title": "Edge Tech Corp",
+        "summary": "Edge Tech Corp (ETC) is a US-based manufacturer and supplier of computer memory upgrades, including DRAM, solid-state drives, USB flash drives, memory cards, and hard disk drives. Edge Tech is headqua"
+    },
+    "the European Commission": {
+        "exists": true,
+        "matched_title": "European Commission",
+        "summary": "The European Commission (EC) is the executive cabinet of the European Union. It is composed of 27 members of the Commission (informally known as \"Commissioners\") corresponding to the number of member "
+    },
+    "Brussels": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Expecting value: line 1 column 1 (char 0)"
+    },
+    "Elara Vex": {
+        "exists": true,
+        "matched_title": "Sun Valley High School (California)",
+        "summary": "Sun Valley High School was a four-year high school in Sun Valley, Los Angeles and was part of the Los Angeles Unified School District. Sun Valley High School was home to over 600 students and 24 staff"
+    },
+    "World Health Organization's": {
+        "exists": true,
+        "matched_title": "World Health Organization",
+        "summary": "The World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates responses to international public health issues and emergencies. It is headquartered in Geneva,"
+    },
+    "Addis Ababa": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Error after 3 attempt(s): Expecting value: line 1 column 1 (char 0)"
+    },
+    "Ethiopia": {
+        "exists": true,
+        "matched_title": "Ethiopia",
+        "summary": "Ethiopia, officially the Federal Democratic Republic of Ethiopia, is a landlocked country located in the Horn of Africa region of East Africa. It shares borders with Eritrea to the north, Djibouti to "
+    },
+    "Lena Chen": {
+        "exists": true,
+        "matched_title": "Lena Chen",
+        "summary": "Lena Chen (born August 13, 1987) is an American feminist artist, writer, and activist based in Berlin and Los Angeles. Born in San Francisco, California, Chen studied sociology and minored in Studies "
+    },
+    "Doctors Without Borders": {
+        "exists": true,
+        "matched_title": "Médecins Sans Frontières",
+        "summary": "Médecins Sans Frontières (MSF; pronounced [medsɛ̃ sɑ̃ fʁɔ̃tjɛʁ] ), French for Doctors Without Borders, is a charity that provides humanitarian medical care. It is a non-governmental organisation (NGO)"
+    },
+    "Mogadishu": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Error after 3 attempt(s): Expecting value: line 1 column 1 (char 0)"
+    },
+    "International Centre for Diarrhoeal Disease Research": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Error after 3 attempt(s): Expecting value: line 1 column 1 (char 0)"
+    },
+    "Dhaka": {
+        "exists": true,
+        "matched_title": "Dhaka",
+        "summary": "Dhaka ( DAH-kə or  DAK-ə; Bengali: ঢাকা, romanized: Ḍhākā, pronounced [ˈɖʱaka] ), formerly known as Dacca, is the capital and largest city of Bangladesh. With an estimated population of 36.6 million, "
+    },
+    "Jessore": {
+        "exists": true,
+        "matched_title": "Jessore",
+        "summary": "Jessore (Bengali: যশোর, romanized: jôshor, [dʒɔʃor]), officially Jashore, is a city of Jessore District in Khulna Division. It lies in southwestern Bangladesh. It is home to the first flight training "
+    },
+    "Sofia Patel": {
+        "exists": true,
+        "matched_title": "2026 Newham London Borough Council election",
+        "summary": "The 2026 Newham London Borough Council election took place on 7 May 2026, as part of the 2026 United Kingdom local elections. All 66 members of Newham London Borough Council were elected; the 2026 New"
+    },
+    "African Institute of Tropical Medicine": {
+        "exists": true,
+        "matched_title": "Institute of Tropical Medicine Antwerp",
+        "summary": "The Institute of Tropical Medicine (Dutch: Instituut voor Tropische Geneeskunde, ITG; French: Institut de médecine tropicale, or IMT) is one of the world's leading institutes for training and research"
+    },
+    "Kinshasa": {
+        "exists": true,
+        "matched_title": "Kinshasa",
+        "summary": "Kinshasa (; French: [kinʃasa]; Lingala: Kinsásá), formerly named Léopoldville (Dutch: Leopoldstad) from 1881 to 1966, is the capital and largest city of the Democratic Republic of the Congo. Kinshasa "
+    },
+    "Nikola Tesla": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Error after 3 attempt(s): Expecting value: line 1 column 1 (char 0)"
+    },
+    "Royal College of Physicians": {
+        "exists": true,
+        "matched_title": "Royal College of Physicians",
+        "summary": "The Royal College of Physicians (RCP) is a British professional membership body dedicated to improving the practice of medicine, chiefly through the accreditation of physicians by examination. Founded"
+    },
+    "Nova Scotia": {
+        "exists": true,
+        "matched_title": "Nova Scotia",
+        "summary": "Nova Scotia is a province in the Maritimes region of Canada, located on the nation's east coast. With an estimated population of over 1 million as of 2025, Nova Scotia is the most populous province in"
+    },
+    "Halifax": {
+        "exists": true,
+        "matched_title": "Halifax, Nova Scotia",
+        "summary": "Disambiguated entity"
+    },
+    "Maria Hernandez": {
+        "exists": true,
+        "matched_title": "María Hernández (swimmer)",
+        "summary": "Disambiguated entity"
+    },
+    "World Health Organization": {
+        "exists": true,
+        "matched_title": "World Health Organization",
+        "summary": "The World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates responses to international public health issues and emergencies. It is headquartered in Geneva,"
+    },
+    "Geneva": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Error after 3 attempt(s): Expecting value: line 1 column 1 (char 0)"
+    },
+    "Ghana": {
+        "exists": true,
+        "matched_title": "Ghana",
+        "summary": "Ghana (  GAH-nə), officially the Republic of Ghana, is a country in West Africa. It is situated with the Gulf of Guinea and the Atlantic Ocean to the south, and shares borders with Côte d'Ivoire to th"
+    },
+    "Médicos del Mundo": {
+        "exists": true,
+        "matched_title": "Médecins du Monde",
+        "summary": "Médecins du monde (MdM; French pronunciation: [medsɛ̃ dy mɔ̃d]), or Doctors of the World, is an international humanitarian organization which seeks to provide emergency and long-term medical care to t"
+    },
+    "Badghis": {
+        "exists": true,
+        "matched_title": "Badghis Province",
+        "summary": "Badghis (Dari: ولایت بادغیس, romanized: Wilāyat-e Bādghīs and Pashto: د بادغیس ولایت, romanized: Da Bādghīs Wilāyat) is one of the northwestern provinces of Afghanistan. It borders Turkmenistan to the"
+    },
+    "Zhang": {
+        "exists": true,
+        "matched_title": "Zhang (surname)",
+        "summary": "Disambiguated entity"
+    },
+    "Tanzania": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Error after 3 attempt(s): Expecting value: line 1 column 1 (char 0)"
+    },
+    "Mbinga Hospital": {
+        "exists": true,
+        "matched_title": "Emmanuel Alex Mapunda",
+        "summary": "Emmanuel Alex Mapunda (10 December 1935 – 16 May 2019) was a Tanzanian Roman Catholic prelate. He was the founder bishop of the Roman Catholic Diocese of Mbinga, in the Metropolitan Archdiocese of Son"
+    },
+    "Sofia Jensen": {
+        "exists": true,
+        "matched_title": "Free Range (musician)",
+        "summary": "Sofia Jensen, known professionally as Free Range, is an American indie folk musician. They grew up in the Rogers Park neighborhood of Chicago. Under the Free Range moniker, Jensen announced plans to r"
+    },
+    "Hospital Universitário São Francisco": {
+        "exists": true,
+        "matched_title": "Federal University of the São Francisco Valley",
+        "summary": "The Federal University of the São Francisco Valley (Portuguese: Universidade Federal do Vale do São Francisco, UNIVASF) is a publicly funded university serving the São Francisco Valley in the states o"
+    },
+    "Brasília": {
+        "exists": true,
+        "matched_title": "Brasília",
+        "summary": "Brasília ( brə-ZIL-ee-ə, Brazilian Portuguese: [bɾaˈziliɐ, bɾaˈziljɐ] ) is the capital city of Brazil and the Federal District. Located in the Brazilian Highlands in the country's Central-West region,"
+    },
+    "Japanese Red Cross Society": {
+        "exists": true,
+        "matched_title": "Japanese Red Cross Society",
+        "summary": "The Japanese Red Cross Society (日本赤十字社, Nippon Sekijūjisha) is the Japanese affiliate of the International Red Cross.\nThe Imperial Family of Japan has traditionally supported the society, with the Emp"
+    },
+    "Sophia Patel": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Error after 3 attempt(s): Expecting value: line 1 column 1 (char 0)"
+    },
+    "Harvard University": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Error after 3 attempt(s): Expecting value: line 1 column 1 (char 0)"
+    },
+    "Melbourne": {
+        "exists": true,
+        "matched_title": "Melbourne",
+        "summary": "Melbourne ( MEL-bərn, locally [ˈmæɫbən] ; Boonwurrung/Woiwurrung: Narrm or Naarm) is the capital and most populous city of the Australian state of Victoria and the second most-populous city in Austral"
+    },
+    "Zara Patel": {
+        "exists": true,
+        "matched_title": "Rashmika Mandanna",
+        "summary": "Rashmika Mandanna (born 5 April 1996) is an Indian actress who primarily works in Telugu and Hindi films. Her accolades include four SIIMA Awards and a Filmfare Award South. One of India's highest-pai"
+    },
+    "Himalayan Research Institute": {
+        "exists": true,
+        "matched_title": "Agni Yoga",
+        "summary": "Agni Yoga (Russian: А́гни Йо́га) or the Living Ethics (Russian: Жива́я Э́тика), or the Teaching of Life (Russian: Уче́ние Жи́зни Uchénie Zhízni), is a Neo-Theosophical religious doctrine transmitted b"
+    },
+    "Darjeeling": {
+        "exists": true,
+        "matched_title": "Darjeeling",
+        "summary": "Darjeeling (, Nepali: [ˈdard͡ziliŋ], Bengali: [ˈdarˌdʒiliŋ]) is a city in the northernmost region of the Indian state of West Bengal. Located in the Eastern Himalayas, it has an average elevation of 2"
+    },
+    "Astrid Jensen": {
+        "exists": true,
+        "matched_title": "Lotte Verbeek",
+        "summary": "Lotte Verbeek (born 24 June 1982) is a Dutch actress, dancer and model. She is known for her role as Giulia Farnese in The Borgias television series created by Neil Jordan, and as Geillis Duncan in th"
+    },
+    "Institute of Quarkian Medicine": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Error after 3 attempt(s): Expecting value: line 1 column 1 (char 0)"
+    },
+    "Mongolian": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Error after 3 attempt(s): Expecting value: line 1 column 1 (char 0)"
+    },
+    "European Institute of Microbiology": {
+        "exists": true,
+        "matched_title": "European Academy of Microbiology",
+        "summary": "The European Academy of Microbiology, generally abbreviated as EAM, is a European institution made up of about 150 microbiology scientists, founded in 2009.\nThe main objective of the Academy is to be "
+    },
+    "Munich": {
+        "exists": true,
+        "matched_title": "Munich",
+        "summary": "Munich (German: München [ˈmʏnçn̩] , Bavarian: Minga [ˈmɪŋ(ː)ɐ] ) is the capital and most populous city of Bavaria, Germany. As of 30 November 2024, its population was 1,604,384, making it the third-la"
+    },
+    "Kazakhstan": {
+        "exists": true,
+        "matched_title": "Kazakhstan",
+        "summary": "Kazakhstan, officially the Republic of Kazakhstan, is a landlocked country situated primarily in Central Asia, with a portion of its territory extending into Eastern Europe. It borders Russia to the n"
+    },
+    "Nairobi": {
+        "exists": true,
+        "matched_title": "Nairobi",
+        "summary": "Nairobi (  ny-ROH-bee) is the capital and largest city of Kenya, located in the south-central part of the country. As of 2024, it has a population of 4.8 million and a metropolitan population of 5.7 m"
+    },
+    "Mozambique": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Error after 3 attempt(s): Expecting value: line 1 column 1 (char 0)"
+    },
+    "Ivan Pavlov": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Error after 3 attempt(s): Expecting value: line 1 column 1 (char 0)"
+    },
+    "Academy of Sciences": {
+        "exists": true,
+        "matched_title": "Academy of sciences",
+        "summary": "An academy of sciences is a type of learned society or academy (as special scientific institution) dedicated to sciences that may or may not be state funded. Some state funded academies are national, "
+    },
+    "University Hospital": {
+        "exists": true,
+        "matched_title": "Teaching hospital",
+        "summary": "A teaching hospital or university hospital is a hospital or medical center that provides medical education and training to future and current health professionals. Teaching hospitals are almost always"
+    },
+    "Leningrad": {
+        "exists": true,
+        "matched_title": "Saint Petersburg",
+        "summary": "Saint Petersburg, formerly known as Petrograd (Петроград) and later Leningrad (Ленинград), is the second-largest city in Russia, after Moscow, the nation's capital. Situated on the Neva River at the h"
+    },
+    "Kaida": {
+        "exists": true,
+        "matched_title": "Kaida",
+        "summary": "Kaida may refer to:\n\nKaida (surname), a Japanese surname\nKaida, Nagano, a former village in Kiso District, Nagano Prefecture, Japan\nKaida Station, a railway station in Kunimi, Fukushima Prefecture, Ja"
+    },
+    "Exploratory Institute of Zoology": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Maximilian LaFleur": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Kora Lee Custer": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Amazonian": {
+        "exists": true,
+        "matched_title": "Amazonian",
+        "summary": "Amazonian may refer to:\n\nAmazonian (Mars), a geologic system and time period on the planet Mars\nAmazon River, in South America\nAmazon basin, that river's drainage basin\nAmazon rainforest, rainforest c"
+    },
+    "Harvard Museum of Natural History": {
+        "exists": true,
+        "matched_title": "Harvard Museum of Natural History",
+        "summary": "The Harvard Museum of Natural History (HMNH) is a natural history museum housed in the University Museum Building, located on the campus of Harvard University in Cambridge, Massachusetts. It features "
+    },
+    "Papua New Guinea": {
+        "exists": true,
+        "matched_title": "Papua New Guinea",
+        "summary": "Papua New Guinea (PNG), officially the Independent State of Papua New Guinea, is an island country in Oceania that comprises the eastern half of the island of New Guinea and offshore islands in Melane"
+    },
+    "International Institute for Tropical Biodiversity": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Melbourne Institute of Marine Biology": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Archimedes": {
+        "exists": true,
+        "matched_title": "Archimedes",
+        "summary": "Archimedes of Syracuse ( AR-kih-MEE-deez; c. 287 – c. 212 BC) was an Ancient Greek mathematician, physicist, engineer, astronomer, and inventor from the city of Syracuse in Sicily. Although few detail"
+    },
+    "Order of the Golden Fleece": {
+        "exists": true,
+        "matched_title": "Order of the Golden Fleece",
+        "summary": "The Distinguished Order of the Golden Fleece is a Catholic order of chivalry founded in 1430 in Brugge by Philip the Good, Duke of Burgundy, to celebrate his marriage to Isabella of Portugal. Today, t"
+    },
+    "Museum of Natural History": {
+        "exists": true,
+        "matched_title": "Natural history museum",
+        "summary": "A natural history museum or museum of natural history is a scientific institution with natural history collections that include current and historical records of animals, plants, fungi, ecosystems, ge"
+    },
+    "Galapagos": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Medici's Institute": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Amazon": {
+        "exists": true,
+        "matched_title": "Amazon (company)",
+        "summary": "Amazon.com, Inc. (doing business as Amazon) is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. "
+    },
+    "Oceanographic Institute of Australia": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Tanna": {
+        "exists": true,
+        "matched_title": "Tanna",
+        "summary": "Tanna may refer to:"
+    },
+    "Vanuatu": {
+        "exists": true,
+        "matched_title": "Vanuatu",
+        "summary": "Vanuatu (English:   VAH-noo-AH-too or  van-WAH-too; Bislama and French pronunciation [vanuatu]), officially the Republic of Vanuatu (French: République de Vanuatu; Bislama: Ripablik blong Vanuatu), is"
+    },
+    "International Conservation Institute": {
+        "exists": true,
+        "matched_title": "Conservation International",
+        "summary": "Conservation International (CI) is an American nonprofit environmental organization headquartered in Crystal City, Virginia. Founded in 1987 by Spencer Beebe and Peter Seligmann, it works internationa"
+    },
+    "Rafaela Fernandes": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Instituto Nacional de Medicina Tropical": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Rio de Janeiro": {
+        "exists": true,
+        "matched_title": "Rio de Janeiro/Galeão International Airport",
+        "summary": "Rio de Janeiro/Galeão–Antonio Carlos Jobim International Airport (IATA: GIG, ICAO: SBGL), popularly known by its original name Galeão International Airport, is the main international airport serving R"
+    },
+    "Amazon River": {
+        "exists": true,
+        "matched_title": "Amazon River",
+        "summary": "The Amazon River (UK: , US: ; Portuguese: rio Amazonas, Spanish: río Amazonas) in South America is the largest river by discharge volume of water in the world, and the second-longest or longest river "
+    },
+    "Zara Aliya": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "International Herpetological League": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Manaus": {
+        "exists": true,
+        "matched_title": "Manaus",
+        "summary": "Manaus (Portuguese: [maˈnaws, mɐ-] ) is the capital and largest city of the Brazilian state of Amazonas. It is the seventh-largest city in Brazil, with an estimated 2024 population of 2,279,686 distri"
+    },
+    "Brazil": {
+        "exists": true,
+        "matched_title": "Brazil",
+        "summary": "Brazil, officially the Federative Republic of Brazil, is the largest country in South America. It is also the world's fifth-largest country by area and the seventh-largest by population, with over 213"
+    },
+    "Evelyn Chen": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Borneo": {
+        "exists": true,
+        "matched_title": "Borneo",
+        "summary": "Borneo () is the third-largest island in the world, with an area of 748,168 km2 (288,869 sq mi), and population of 23,053,723 (2020 national censuses). Situated at the geographic centre of Maritime So"
+    },
+    "Kalimantan Research Initiative": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "FBI": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Rachel Kim": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Madagascar": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Kew Botanic Gardens": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Helena Anders": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Botanical Gardens": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Institute for Sustainable Ecology": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Kuala Lumpur": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Perth": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Australia": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Rosalind Franklin's": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "King's College London": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Wellcome Trust": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Rajiv Patel": {
+        "exists": true,
+        "matched_title": "Rajiv Patel",
+        "summary": "Rajiv Patel is an American musician and solo guitarist."
+    },
+    "Aurora Patel": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Celestial Dynamics": {
+        "exists": true,
+        "matched_title": "Dynamics of the celestial spheres",
+        "summary": "Ancient, medieval and Renaissance astronomers and philosophers developed many different theories about the dynamics of the celestial spheres.  They explained the motions of the various nested spheres "
+    },
+    "Nantucket": {
+        "exists": true,
+        "matched_title": "Nantucket",
+        "summary": "Nantucket () is an island in Massachusetts, United States, about 30 miles (48 km) south of the Cape Cod peninsula. Together with the small islands of Tuckernuck and Muskeget, it constitutes the Town a"
+    },
+    "Rajiv Singh": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Kreditkorp": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Zentralbank Austria": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Prague": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Kaitlyn Patel": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Sydney": {
+        "exists": true,
+        "matched_title": "Sydney",
+        "summary": "Sydney is the capital city of the state of New South Wales, and the most populous city in Australia. Located on Australia's east coast, the metropolis surrounds Sydney Harbour and extends about 80 kil"
+    },
+    "Elizabeth Bennet": {
+        "exists": true,
+        "matched_title": "Elizabeth Bennet",
+        "summary": "Elizabeth Bennet is a fictional character and the protagonist of the 1813 novel Pride and Prejudice by Jane Austen. She is often referred to as Eliza or Lizzy by her friends and family. Elizabeth is t"
+    },
+    "British East India Company": {
+        "exists": true,
+        "matched_title": "East India Company",
+        "summary": "The East India Company (EIC), more commonly known as the British East India Company (BEIC), was an English, and later British, joint-stock company that was founded in 1600 and dissolved in 1874. It wa"
+    },
+    "Calcutta": {
+        "exists": true,
+        "matched_title": "University of Calcutta",
+        "summary": "The University of Calcutta, informally known as Calcutta University (CU), is a public state research university located in Kolkata, also known as Calcutta, in West Bengal, India. It has 151 affiliated"
+    },
+    "Ruth Chen": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Zephyr Technologies": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "NovaSphere": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Samantha Thompson": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Atlas Innovations": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Ava Thompson": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Berlin": {
+        "exists": true,
+        "matched_title": "Berlin",
+        "summary": "Berlin is the capital of Germany, as well as its largest city by both area and population. With 4 million inhabitants, it has the highest population within its city limits of any city in the European "
+    },
+    "Ryōji Nakamura": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "NTT DOCOMO": {
+        "exists": true,
+        "matched_title": "NTT Docomo",
+        "summary": "NTT Docomo, Inc. (株式会社NTTドコモ), stylized as NTT DOCOMO, is a Japanese mobile telecommunications carrier and a subsidiary of NTT, one of the world's leading telecommunications operators. Structured as a"
+    },
+    "Kigali": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Regina Moreno": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Nova Terra Ventures": {
+        "exists": true,
+        "matched_title": "Terra Nova Expedition",
+        "summary": "The Terra Nova Expedition, officially the British Antarctic Expedition, was an expedition to Antarctica which took place between 1910 and 1913. Led by Captain Robert Falcon Scott, the expedition had v"
+    },
+    "Eleanor Lee": {
+        "exists": true,
+        "matched_title": "Eleanor Lee",
+        "summary": "Eleanor Lee Kai-xin (born 12 October 1999) is a Singaporean actress and singer based in China."
+    },
+    "Shibuya": {
+        "exists": true,
+        "matched_title": "Shibuya",
+        "summary": "Shibuya (渋谷区, Shibuya-ku; IPA: [ɕibɯja] ) is a special ward in Tokyo, Japan. A major commercial center, Shibuya houses one of the busiest railway stations in the world, Shibuya Station.\nAs of January "
+    },
+    "Zara Saeed": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Galaxar Inc.": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Korean": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Café de la Paix": {
+        "exists": true,
+        "matched_title": "Café de la Paix",
+        "summary": "The Café de la Paix (French pronunciation: [kafe d(ə) la pɛ]) is a famous café located on the northwest corner of the intersection of the Boulevard des Capucines and the Place de l'Opéra, in the 9th a"
+    },
+    "Marrakech": {
+        "exists": true,
+        "matched_title": "KAC Marrakech",
+        "summary": "Kawkab Athletic Club of Marrakesh (Arabic: الكوكب المراكشي; KACM) is a Moroccan professional football club based in Marrakesh. The club was founded on 20 September 1947 by Hadj Idriss Talbi."
+    },
+    "Lena Patel": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Institute of Cartographic Sciences": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "International Association of Geographers": {
+        "exists": true,
+        "matched_title": "American Association of Geographers",
+        "summary": "The American Association of Geographers (AAG) is a non-profit scientific and educational society aimed at advancing the understanding, study, and importance of geography and related fields. Its headqu"
+    },
+    "Shanghai": {
+        "exists": true,
+        "matched_title": "Shanghai",
+        "summary": "Shanghai (; Chinese: 上海; pinyin: Shànghǎi, Shanghainese: zaon6 he5 [zɑ̃˩ hɛ˦] , Standard Chinese pronunciation: [ʂâŋ.xàɪ] ) is a direct-administered municipality and the most populous urban area in Ch"
+    },
+    "Indian": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Oorja Innovations": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "John D. Rockefeller's": {
+        "exists": true,
+        "matched_title": "John D. Rockefeller",
+        "summary": "John Davison Rockefeller Sr. (July 8, 1839 – May 23, 1937) was an American businessman and philanthropist. He was one of the wealthiest Americans of all time and one of the richest people in modern hi"
+    },
+    "Jay Gould": {
+        "exists": true,
+        "matched_title": "Jay Gould",
+        "summary": "Jay Gould (; May 27, 1836 – December 2, 1892) was an American railroad magnate and financial speculator who founded the Gould business dynasty. He is generally identified as one of the robber barons o"
+    },
+    "Delmonico Hotel": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "New Orleans": {
+        "exists": true,
+        "matched_title": "New Orleans",
+        "summary": "New Orleans (commonly known as NOLA or  The Big Easy, among other nicknames) is a consolidated city-parish located along the Mississippi River in the U.S. state of Louisiana. With a population of 383,"
+    },
+    "American": {
+        "exists": true,
+        "matched_title": "American",
+        "summary": "American(s) may refer to:\n\nAmerican, something of, from, or related to the United States of America, commonly known as the \"United States\" or \"America\"\nAmericans, citizens and nationals of the United "
+    },
+    "Harriet Huxley": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Alfred Hitchcock": {
+        "exists": true,
+        "matched_title": "Alfred Hitchcock",
+        "summary": "Sir Alfred Joseph Hitchcock (13 August 1899 – 29 April 1980) was an English filmmaker. He is widely regarded as one of the greatest and most influential figures in the history of cinema. In a career s"
+    },
+    "Cinecittà": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Compania Nacional de Radiodifusión y Televisión.": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Genghis Khan": {
+        "exists": true,
+        "matched_title": "Genghis Khan",
+        "summary": "Genghis Khan (born Temüjin; c. 1162 – August 1227), also known as Chinggis Khan, was the founder and first khan of the Mongol Empire. After spending most of his life uniting the Mongol tribes, he laun"
+    },
+    "Westerns": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Petra": {
+        "exists": true,
+        "matched_title": "Petra",
+        "summary": "Petra (Arabic: ٱلْبَتْراء‎, romanized: Al-Batrāʾ; Ancient Greek: Πέτρα, lit. 'Rock'), originally known to its inhabitants as Raqmu (Nabataean Aramaic: 𐢛𐢚𐢒‎ or 𐢛𐢚𐢓𐢈‎, *Raqēmō), is an ancient city and a"
+    },
+    "René Bousquet": {
+        "exists": true,
+        "matched_title": "Bousquet",
+        "summary": "Bousquet is a surname. Notable people with the surname include:\n\nAdolphe Bousquet (1899–1972), French rugby union player\nDon Bousquet (born 1948), American cartoonist\nFrancis Bousquet (1890–1942), Fre"
+    },
+    "French": {
+        "exists": true,
+        "matched_title": "French",
+        "summary": "French or français may refer to:\n\nSomething of, from, or related to France\nFrench language, which originated in France\nFrench people, individuals identified with France\nFrench cuisine, cooking traditi"
+    },
+    "Les Étoiles Filantes": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Ava Morales": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Oscar": {
+        "exists": true,
+        "matched_title": "Oscar",
+        "summary": "Oscar, OSCAR, or The Oscar may refer to:"
+    },
+    "Cannes Film Festival": {
+        "exists": true,
+        "matched_title": "2026 Cannes Film Festival",
+        "summary": "The 79th annual Cannes Film Festival will take place from 12 to 23 May 2026. South Korean filmmaker Park Chan-wook will serve as jury president for the main competition.\nHartland Villa designed the of"
+    },
+    "Bali": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Oscar Wilde": {
+        "exists": true,
+        "matched_title": "Oscar Wilde",
+        "summary": "Oscar Fingal O'Fflahertie Wills Wilde (16 October 1854 – 30 November 1900) was an Irish author, poet and playwright. After writing in different literary styles throughout the 1880s, he became one of t"
+    },
+    "Kyoto": {
+        "exists": true,
+        "matched_title": "Kyoto",
+        "summary": "Kyoto ( or ; Japanese: 京都, Kyōto [kʲoꜜː.to] ), officially Kyoto City (京都市, Kyōto-shi; [kʲoː.toꜜ.ɕi] ), is the capital city of Kyoto Prefecture in the Kansai region of Japan's largest and most populous"
+    },
+    "Japanese": {
+        "exists": true,
+        "matched_title": "Japanese",
+        "summary": "Japanese may refer to: \n\nSomething from or related to Japan, an island country in East Asia\nJapanese language, spoken mainly in Japan\nJapanese people, individuals identified with Japan through ancestr"
+    },
+    "Ibsen": {
+        "exists": true,
+        "matched_title": "Henrik Ibsen",
+        "summary": "Henrik Johan Ibsen (; Norwegian: [ˈhɛ̀nrɪk ˈɪ̀psn̩]; 20 March 1828 – 23 May 1906) was a Norwegian playwright. He is considered one of the world's pre-eminent writers of the 19th century and is often r"
+    },
+    "Lucas Thompson": {
+        "exists": true,
+        "matched_title": "Lucas P. Thompson",
+        "summary": "Lucas Keith Thompson (1797–1866) was an Ohio lawyer, politician, educator and judge for more than 35 years, who died before he could assume a seat on the Court of Appeals."
+    },
+    "Hollywood": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Paramount Pictures": {
+        "exists": true,
+        "matched_title": "Paramount Pictures",
+        "summary": "Paramount Pictures Corporation, commonly known as Paramount Pictures or simply Paramount, is an American film production and distribution company and the flagship namesake subsidiary of Paramount Skyd"
+    },
+    "Baja California": {
+        "exists": true,
+        "matched_title": "Baja California",
+        "summary": "Baja California, officially the Free and Sovereign State of Baja California, is a state in Mexico. It is the northwesternmost of the 32 federal entities of Mexico. Before becoming a state in 1952, the"
+    },
+    "Nova Haven": {
+        "exists": true,
+        "matched_title": "Glen Haven, Nova Scotia",
+        "summary": "Glen Haven (population 204) is a small coastal community within the Halifax Regional Municipality of Nova Scotia, Canada, about 40 km from Halifax city centre. It is situated on the shore of the St. M"
+    },
+    "Illuminated Order": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Gwenyth McAllister": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Kaitlyn Thompson": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Kyoto Marathon": {
+        "exists": true,
+        "matched_title": "Kyoto Marathon",
+        "summary": "The Kyoto Marathon (京都マラソン, Kyōto Marason) is an annual marathon sporting event for men and women over the classic distance of 42.195 kilometres which is held in mid February in Kyoto, Japan. The cour"
+    },
+    "Tokyo Tigers": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "SpaceX": {
+        "exists": true,
+        "matched_title": "SpaceX",
+        "summary": "Space Exploration Technologies Corporation, doing business as SpaceX (stylized as SPACEX in upper caps), is a private American aerospace and artificial intelligence company headquartered at the Starba"
+    },
+    "Seoul": {
+        "exists": true,
+        "matched_title": "Seoul",
+        "summary": "Seoul, officially Seoul Special Metropolitan City, is the capital and largest city of South Korea, and the largest city in the whole of Korea. The broader Seoul Metropolitan Area, encompassing Seoul, "
+    },
+    "Elon Musk's": {
+        "exists": true,
+        "matched_title": "Elon Musk",
+        "summary": "Elon Reeve Musk ( EE-lon; born June 28, 1971) is a businessman and public official known for his leadership of Tesla, SpaceX, X, and xAI. Musk has been the wealthiest person in the world since 2025; a"
+    },
+    "Swiss Federal Institute of Technology": {
+        "exists": true,
+        "matched_title": "Swiss Federal Institute of Technology",
+        "summary": "The Swiss Federal Institutes of Technology are two institutes of higher education in Switzerland (part of the ETH Domain):\n\nSwiss Federal Institute of Technology in Lausanne (EPFL)\nSwiss Federal Insti"
+    },
+    "Lena Grant": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "CIA": {
+        "exists": true,
+        "matched_title": "CIA (TV series)",
+        "summary": "CIA is an American police procedural television series created by Dick Wolf, David Hudgins, Nicole Perlman, David Chasteen, and Warren Leight that premiered on CBS on February 23, 2026. The series is "
+    },
+    "Soviet": {
+        "exists": "UNKNOWN",
+        "matched_title": null,
+        "summary": "Failed after 3 attempts"
+    },
+    "Moscow": {
+        "exists": true,
+        "matched_title": "Moscow",
+        "summary": "Moscow is the capital and largest city of Russia, standing on the Moskva River in Central Russia. It has a population estimated at over 13 million residents within the city limits, over 19.1 million r"
+    },
+    "KGB": {
+        "exists": true,
+        "matched_title": "KGB",
+        "summary": "The Committee for State Security (Russian: Комитет государственной безопасности, romanised: Komitet gosudarstvennoy bezopasnosti, IPA: [kəmʲɪˈtʲed ɡəsʊˈdarstvʲɪn(ː)əj bʲɪzɐˈpasnəsʲtʲɪ]), abbreviated a"
+    },
+    "Zara Vex": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Institute of Advanced Studies": {
+        "exists": true,
+        "matched_title": "Institute for Advanced Study",
+        "summary": "The Institute for Advanced Study (IAS) is an independent center for theoretical research and intellectual inquiry located in Princeton, New Jersey. It has served as the academic home of internationall"
+    },
+    "Shanghai World Financial Center": {
+        "exists": true,
+        "matched_title": "Shanghai World Financial Center",
+        "summary": "The Shanghai World Financial Center (SWFC; Chinese: 上海环球金融中心; pinyin: Shànghǎi Huánqiú Jīnróng Zhōngxīn, Shanghainese: Zånhae Guejieu Cinyon Tsonsin) is a supertall skyscraper located in the Pudong di"
+    },
+    "University of Sydney": {
+        "exists": true,
+        "matched_title": "University of Sydney",
+        "summary": "The University of Sydney (USYD) is a public research university in Sydney, Australia. Founded in 1850, it is the oldest university in both Australia and Oceania. One of Australia's six sandstone unive"
+    },
+    "Luminous Vagabonds": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Tsukiji Fish Market": {
+        "exists": true,
+        "matched_title": "Tsukiji fish market",
+        "summary": "Tsukiji Market (築地市場, Tsukiji shijō) is a former seafood market and major tourist attraction in Tokyo.\nLocated in Tsukiji in central Tokyo between the Sumida River and the upmarket Ginza shopping dist"
+    },
+    "Malawi": {
+        "exists": true,
+        "matched_title": "Malawi",
+        "summary": "Malawi, officially the Republic of Malawi, is a landlocked country in Southeast Africa. It is bordered by Zambia to the west, Tanzania to the north and northeast, and Mozambique to the east, south, an"
+    },
+    "Lena Thompson": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "World Wildlife Fund": {
+        "exists": true,
+        "matched_title": "World Wildlife Fund",
+        "summary": "The World Wide Fund for Nature (WWF) is a Swiss-based international non-governmental organization founded in 1961 that works in the field of wilderness preservation and the reduction of human impact o"
+    },
+    "Luna": {
+        "exists": true,
+        "matched_title": "Luna",
+        "summary": "Luna commonly refers to:\n\nEarth's Moon, named \"Luna\" in Latin, Spanish and other languages\nLuna (goddess), the ancient Roman personification of the Moon\nLuna (name), including a list of people and cha"
+    },
+    "Golden Lotus Consortium": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Celestial Order": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Zara Rodriguez": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Lena Lee": {
+        "exists": true,
+        "matched_title": "Lena King Lee",
+        "summary": "Lena King Lee (July 14, 1906 – August 24, 2006) was an American educator, attorney, and politician who entered politics at the age of 60 and became one of the first African-American women elected to t"
+    },
+    "New Yorker": {
+        "exists": true,
+        "matched_title": "The New Yorker",
+        "summary": "The New Yorker is an American magazine featuring journalism, commentary, criticism, essays, fiction, satire, cartoons, and poetry. It was founded on February 21, 1925, by Harold Ross and his wife Jane"
+    },
+    "Tibet": {
+        "exists": true,
+        "matched_title": "Tibet",
+        "summary": "Tibet ( ) is a region in the southwestern part of China, covering much of the Tibetan Plateau. It is the homeland of the Tibetans. Other ethnic groups also reside on the plateau, including Mongols, th"
+    },
+    "Kaija Kivinen": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "Finland": {
+        "exists": true,
+        "matched_title": "Finland",
+        "summary": "Finland, or the Republic of Finland, is a Nordic country in Northern Europe. It borders Sweden to the northwest, Norway to the north, and Russia to the east, with the Gulf of Bothnia to the west and t"
+    },
+    "International Cycling Union's": {
+        "exists": false,
+        "matched_title": null,
+        "summary": null
+    },
+    "World Championships": {
+        "exists": true,
+        "matched_title": "World Athletics Championships",
+        "summary": "The World Athletics Championships, known as the IAAF World Championships in Athletics until 2019, are a biennial athletics competition organized by World Athletics, formerly International Association "
+    },
+    "Varese": {
+        "exists": true,
+        "matched_title": "Varese",
+        "summary": "Varese (UK:  və-RAY-zay, -⁠zee, US:  var-AY-say; Italian: [vaˈreːze]  or [vaˈreːse]; Varesino: Varés [ʋaˈreːs]; Latin: Baretium; archaic German: Väris) is a city and comune in north-western Lombardy, "
+    }
+}

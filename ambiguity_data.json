@@ -1,0 +1,673 @@
+[
+    {
+        "timestamp": "2026-05-11 15:52:12.455198",
+        "sentence": "Astrid Jensen, a passionate gamer from Nova Haven, sneaked into the secret underground lair of the Illuminated Order in Tokyo to hack their prized virtual reality mainframe.",
+        "entities": [
+            {
+                "entity": "Astrid Jensen",
+                "label": "PERSON",
+                "exists": true,
+                "matched_title": "Lotte Verbeek",
+                "summary": "Lotte Verbeek (born 24 June 1982) is a Dutch actress, dancer and model. She is known for her role as Giulia Farnese in The Borgias television series created by Neil Jordan, and as Geillis Duncan in th"
+            },
+            {
+                "entity": "Nova Haven",
+                "label": "GPE",
+                "exists": true,
+                "matched_title": "Glen Haven, Nova Scotia",
+                "summary": "Glen Haven (population 204) is a small coastal community within the Halifax Regional Municipality of Nova Scotia, Canada, about 40 km from Halifax city centre. It is situated on the shore of the St. M"
+            },
+            {
+                "entity": "Illuminated Order",
+                "label": "ORG",
+                "exists": false,
+                "matched_title": null,
+                "summary": null
+            },
+            {
+                "entity": "Tokyo",
+                "label": "GPE",
+                "exists": "UNKNOWN",
+                "matched_title": null,
+                "summary": "Expecting value: line 1 column 1 (char 0)"
+            }
+        ],
+        "hallucinated_entities": [
+            "Illuminated Order"
+        ],
+        "unknown_entities": [
+            "Tokyo"
+        ],
+        "entity_authenticity_score": {
+            "score": 0.67,
+            "coverage": 0.75,
+            "raw_counts": {
+                "real": 2,
+                "hallucinated": 1,
+                "unknown": 1,
+                "total": 4
+            }
+        }
+    },
+    {
+        "timestamp": "2026-05-11 15:52:23.114509",
+        "sentence": "Gwenyth McAllister, a renowned gamer, infiltrated the underground hacking ring operating out of an abandoned missile silo in Kazakhstan on behalf of the clandestine organization known as \"Echo-13\".",
+        "entities": [
+            {
+                "entity": "Gwenyth McAllister",
+                "label": "PERSON",
+                "exists": false,
+                "matched_title": null,
+                "summary": null
+            },
+            {
+                "entity": "Kazakhstan",
+                "label": "GPE",
+                "exists": true,
+                "matched_title": "Kazakhstan",
+                "summary": "Kazakhstan, officially the Republic of Kazakhstan, is a landlocked country situated primarily in Central Asia, with a portion of its territory extending into Eastern Europe. It borders Russia to the n"
+            }
+        ],
+        "hallucinated_entities": [
+            "Gwenyth McAllister"
+        ],
+        "unknown_entities": [],
+        "entity_authenticity_score": {
+            "score": 0.5,
+            "coverage": 1.0,
+            "raw_counts": {
+                "real": 1,
+                "hallucinated": 1,
+                "unknown": 0,
+                "total": 2
+            }
+        }
+    },
+    {
+        "timestamp": "2026-05-11 15:52:41.912891",
+        "sentence": "Kaitlyn Thompson sprinted across the finish line at the prestigious Kyoto Marathon, representing the struggling Tokyo Tigers against all odds.",
+        "entities": [
+            {
+                "entity": "Kaitlyn Thompson",
+                "label": "PERSON",
+                "exists": false,
+                "matched_title": null,
+                "summary": null
+            },
+            {
+                "entity": "Kyoto Marathon",
+                "label": "EVENT",
+                "exists": true,
+                "matched_title": "Kyoto Marathon",
+                "summary": "The Kyoto Marathon (京都マラソン, Kyōto Marason) is an annual marathon sporting event for men and women over the classic distance of 42.195 kilometres which is held in mid February in Kyoto, Japan. The cour"
+            },
+            {
+                "entity": "Tokyo Tigers",
+                "label": "ORG",
+                "exists": false,
+                "matched_title": null,
+                "summary": null
+            }
+        ],
+        "hallucinated_entities": [
+            "Kaitlyn Thompson",
+            "Tokyo Tigers"
+        ],
+        "unknown_entities": [],
+        "entity_authenticity_score": {
+            "score": 0.33,
+            "coverage": 1.0,
+            "raw_counts": {
+                "real": 1,
+                "hallucinated": 2,
+                "unknown": 0,
+                "total": 3
+            }
+        }
+    },
+    {
+        "timestamp": "2026-05-11 15:53:05.642010",
+        "sentence": "As Sophia Patel hacked into SpaceX's satellite network from her makeshift lab in a Seoul alleyway, she inadvertently triggered a global internet outage and earned herself a coveted spot on Elon Musk's most-wanted list.",
+        "entities": [
+            {
+                "entity": "Sophia Patel",
+                "label": "PERSON",
+                "exists": "UNKNOWN",
+                "matched_title": null,
+                "summary": "Error after 3 attempt(s): Expecting value: line 1 column 1 (char 0)"
+            },
+            {
+                "entity": "SpaceX",
+                "label": "ORG",
+                "exists": true,
+                "matched_title": "SpaceX",
+                "summary": "Space Exploration Technologies Corporation, doing business as SpaceX (stylized as SPACEX in upper caps), is a private American aerospace and artificial intelligence company headquartered at the Starba"
+            },
+            {
+                "entity": "Seoul",
+                "label": "GPE",
+                "exists": true,
+                "matched_title": "Seoul",
+                "summary": "Seoul, officially Seoul Special Metropolitan City, is the capital and largest city of South Korea, and the largest city in the whole of Korea. The broader Seoul Metropolitan Area, encompassing Seoul, "
+            },
+            {
+                "entity": "Elon Musk's",
+                "label": "PERSON",
+                "exists": true,
+                "matched_title": "Elon Musk",
+                "summary": "Elon Reeve Musk ( EE-lon; born June 28, 1971) is a businessman and public official known for his leadership of Tesla, SpaceX, X, and xAI. Musk has been the wealthiest person in the world since 2025; a"
+            }
+        ],
+        "hallucinated_entities": [],
+        "unknown_entities": [
+            "Sophia Patel"
+        ],
+        "entity_authenticity_score": {
+            "score": 1.0,
+            "coverage": 0.75,
+            "raw_counts": {
+                "real": 3,
+                "hallucinated": 0,
+                "unknown": 1,
+                "total": 4
+            }
+        }
+    },
+    {
+        "timestamp": "2026-05-11 15:53:21.641413",
+        "sentence": "Dr. Sophia Patel, a renowned microbiologist, discovered a rare species of glowing bacteria in the depths of the Amazon rainforest while collaborating with the Swiss Federal Institute of Technology.",
+        "entities": [
+            {
+                "entity": "Sophia Patel",
+                "label": "PERSON",
+                "exists": "UNKNOWN",
+                "matched_title": null,
+                "summary": "Error after 3 attempt(s): Expecting value: line 1 column 1 (char 0)"
+            },
+            {
+                "entity": "Amazon",
+                "label": "LOC",
+                "exists": true,
+                "matched_title": "Amazon (company)",
+                "summary": "Amazon.com, Inc. (doing business as Amazon) is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. "
+            },
+            {
+                "entity": "Swiss Federal Institute of Technology",
+                "label": "ORG",
+                "exists": true,
+                "matched_title": "Swiss Federal Institute of Technology",
+                "summary": "The Swiss Federal Institutes of Technology are two institutes of higher education in Switzerland (part of the ETH Domain):\n\nSwiss Federal Institute of Technology in Lausanne (EPFL)\nSwiss Federal Insti"
+            }
+        ],
+        "hallucinated_entities": [],
+        "unknown_entities": [
+            "Sophia Patel"
+        ],
+        "entity_authenticity_score": {
+            "score": 1.0,
+            "coverage": 0.67,
+            "raw_counts": {
+                "real": 2,
+                "hallucinated": 0,
+                "unknown": 1,
+                "total": 3
+            }
+        }
+    },
+    {
+        "timestamp": "2026-05-11 15:54:14.357888",
+        "sentence": "Lena Grant from the CIA watched a film about Soviet spies in Moscow while hiding from KGB agents.",
+        "entities": [
+            {
+                "entity": "Lena Grant",
+                "label": "PERSON",
+                "exists": false,
+                "matched_title": null,
+                "summary": null
+            },
+            {
+                "entity": "CIA",
+                "label": "ORG",
+                "exists": true,
+                "matched_title": "CIA (TV series)",
+                "summary": "CIA is an American police procedural television series created by Dick Wolf, David Hudgins, Nicole Perlman, David Chasteen, and Warren Leight that premiered on CBS on February 23, 2026. The series is "
+            },
+            {
+                "entity": "Soviet",
+                "label": "NORP",
+                "exists": "UNKNOWN",
+                "matched_title": null,
+                "summary": "Failed after 3 attempts"
+            },
+            {
+                "entity": "Moscow",
+                "label": "GPE",
+                "exists": true,
+                "matched_title": "Moscow",
+                "summary": "Moscow is the capital and largest city of Russia, standing on the Moskva River in Central Russia. It has a population estimated at over 13 million residents within the city limits, over 19.1 million r"
+            },
+            {
+                "entity": "KGB",
+                "label": "ORG",
+                "exists": true,
+                "matched_title": "KGB",
+                "summary": "The Committee for State Security (Russian: Комитет государственной безопасности, romanised: Komitet gosudarstvennoy bezopasnosti, IPA: [kəmʲɪˈtʲed ɡəsʊˈdarstvʲɪn(ː)əj bʲɪzɐˈpasnəsʲtʲɪ]), abbreviated a"
+            }
+        ],
+        "hallucinated_entities": [
+            "Lena Grant"
+        ],
+        "unknown_entities": [
+            "Soviet"
+        ],
+        "entity_authenticity_score": {
+            "score": 0.75,
+            "coverage": 0.8,
+            "raw_counts": {
+                "real": 3,
+                "hallucinated": 1,
+                "unknown": 1,
+                "total": 5
+            }
+        }
+    },
+    {
+        "timestamp": "2026-05-11 15:54:38.039478",
+        "sentence": "Dr. Zara Vex, a renowned physicist from the Institute of Advanced Studies in Melbourne, spent her entire career searching for the elusive quantum portal beneath the gleaming spires of the Shanghai World Financial Center.",
+        "entities": [
+            {
+                "entity": "Zara Vex",
+                "label": "PERSON",
+                "exists": false,
+                "matched_title": null,
+                "summary": null
+            },
+            {
+                "entity": "Institute of Advanced Studies",
+                "label": "ORG",
+                "exists": true,
+                "matched_title": "Institute for Advanced Study",
+                "summary": "The Institute for Advanced Study (IAS) is an independent center for theoretical research and intellectual inquiry located in Princeton, New Jersey. It has served as the academic home of internationall"
+            },
+            {
+                "entity": "Melbourne",
+                "label": "GPE",
+                "exists": true,
+                "matched_title": "Melbourne",
+                "summary": "Melbourne ( MEL-bərn, locally [ˈmæɫbən] ; Boonwurrung/Woiwurrung: Narrm or Naarm) is the capital and most populous city of the Australian state of Victoria and the second most-populous city in Austral"
+            },
+            {
+                "entity": "Shanghai World Financial Center",
+                "label": "FAC",
+                "exists": true,
+                "matched_title": "Shanghai World Financial Center",
+                "summary": "The Shanghai World Financial Center (SWFC; Chinese: 上海环球金融中心; pinyin: Shànghǎi Huánqiú Jīnróng Zhōngxīn, Shanghainese: Zånhae Guejieu Cinyon Tsonsin) is a supertall skyscraper located in the Pudong di"
+            }
+        ],
+        "hallucinated_entities": [
+            "Zara Vex"
+        ],
+        "unknown_entities": [],
+        "entity_authenticity_score": {
+            "score": 0.75,
+            "coverage": 1.0,
+            "raw_counts": {
+                "real": 3,
+                "hallucinated": 1,
+                "unknown": 0,
+                "total": 4
+            }
+        }
+    },
+    {
+        "timestamp": "2026-05-11 15:55:09.997056",
+        "sentence": "Dr. Sofia Patel, a renowned AI ethicist from the University of Sydney, attended a clandestine meeting with the enigmatic hacker collective known as Luminous Vagabonds in a smoke-filled alleyway behind Tokyo's famous Tsukiji Fish Market.",
+        "entities": [
+            {
+                "entity": "Sofia Patel",
+                "label": "PERSON",
+                "exists": true,
+                "matched_title": "2026 Newham London Borough Council election",
+                "summary": "The 2026 Newham London Borough Council election took place on 7 May 2026, as part of the 2026 United Kingdom local elections. All 66 members of Newham London Borough Council were elected; the 2026 New"
+            },
+            {
+                "entity": "University of Sydney",
+                "label": "ORG",
+                "exists": true,
+                "matched_title": "University of Sydney",
+                "summary": "The University of Sydney (USYD) is a public research university in Sydney, Australia. Founded in 1850, it is the oldest university in both Australia and Oceania. One of Australia's six sandstone unive"
+            },
+            {
+                "entity": "Luminous Vagabonds",
+                "label": "ORG",
+                "exists": false,
+                "matched_title": null,
+                "summary": null
+            },
+            {
+                "entity": "Tokyo",
+                "label": "GPE",
+                "exists": "UNKNOWN",
+                "matched_title": null,
+                "summary": "Expecting value: line 1 column 1 (char 0)"
+            },
+            {
+                "entity": "Tsukiji Fish Market",
+                "label": "FAC",
+                "exists": true,
+                "matched_title": "Tsukiji fish market",
+                "summary": "Tsukiji Market (築地市場, Tsukiji shijō) is a former seafood market and major tourist attraction in Tokyo.\nLocated in Tsukiji in central Tokyo between the Sumida River and the upmarket Ginza shopping dist"
+            }
+        ],
+        "hallucinated_entities": [
+            "Luminous Vagabonds"
+        ],
+        "unknown_entities": [
+            "Tokyo"
+        ],
+        "entity_authenticity_score": {
+            "score": 0.75,
+            "coverage": 0.8,
+            "raw_counts": {
+                "real": 3,
+                "hallucinated": 1,
+                "unknown": 1,
+                "total": 5
+            }
+        }
+    },
+    {
+        "timestamp": "2026-05-11 15:55:25.258478",
+        "sentence": "Dr. Sofia Patel, a renowned epidemiologist from the World Health Organization, rushed to the remote clinic in rural Malawi to contain an outbreak of a mysterious virus affecting the local population.",
+        "entities": [
+            {
+                "entity": "Sofia Patel",
+                "label": "PERSON",
+                "exists": true,
+                "matched_title": "2026 Newham London Borough Council election",
+                "summary": "The 2026 Newham London Borough Council election took place on 7 May 2026, as part of the 2026 United Kingdom local elections. All 66 members of Newham London Borough Council were elected; the 2026 New"
+            },
+            {
+                "entity": "World Health Organization",
+                "label": "ORG",
+                "exists": true,
+                "matched_title": "World Health Organization",
+                "summary": "The World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates responses to international public health issues and emergencies. It is headquartered in Geneva,"
+            },
+            {
+                "entity": "Malawi",
+                "label": "GPE",
+                "exists": true,
+                "matched_title": "Malawi",
+                "summary": "Malawi, officially the Republic of Malawi, is a landlocked country in Southeast Africa. It is bordered by Zambia to the west, Tanzania to the north and northeast, and Mozambique to the east, south, an"
+            }
+        ],
+        "hallucinated_entities": [],
+        "unknown_entities": [],
+        "entity_authenticity_score": {
+            "score": 1.0,
+            "coverage": 1.0,
+            "raw_counts": {
+                "real": 3,
+                "hallucinated": 0,
+                "unknown": 0,
+                "total": 3
+            }
+        }
+    },
+    {
+        "timestamp": "2026-05-11 15:55:41.433096",
+        "sentence": "Lena Thompson discovered a rare species of orchid in the Amazon rainforest while working for the World Wildlife Fund.",
+        "entities": [
+            {
+                "entity": "Lena Thompson",
+                "label": "PERSON",
+                "exists": false,
+                "matched_title": null,
+                "summary": null
+            },
+            {
+                "entity": "Amazon",
+                "label": "LOC",
+                "exists": true,
+                "matched_title": "Amazon (company)",
+                "summary": "Amazon.com, Inc. (doing business as Amazon) is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. "
+            },
+            {
+                "entity": "World Wildlife Fund",
+                "label": "ORG",
+                "exists": true,
+                "matched_title": "World Wildlife Fund",
+                "summary": "The World Wide Fund for Nature (WWF) is a Swiss-based international non-governmental organization founded in 1961 that works in the field of wilderness preservation and the reduction of human impact o"
+            }
+        ],
+        "hallucinated_entities": [
+            "Lena Thompson"
+        ],
+        "unknown_entities": [],
+        "entity_authenticity_score": {
+            "score": 0.67,
+            "coverage": 1.0,
+            "raw_counts": {
+                "real": 2,
+                "hallucinated": 1,
+                "unknown": 0,
+                "total": 3
+            }
+        }
+    },
+    {
+        "timestamp": "2026-05-11 15:56:11.966119",
+        "sentence": "Luna, a freelance assassin, hacked into the servers of the enigmatic Golden Lotus Consortium on the moonbase Alpha-12.",
+        "entities": [
+            {
+                "entity": "Luna",
+                "label": "PERSON",
+                "exists": true,
+                "matched_title": "Luna",
+                "summary": "Luna commonly refers to:\n\nEarth's Moon, named \"Luna\" in Latin, Spanish and other languages\nLuna (goddess), the ancient Roman personification of the Moon\nLuna (name), including a list of people and cha"
+            },
+            {
+                "entity": "Golden Lotus Consortium",
+                "label": "ORG",
+                "exists": false,
+                "matched_title": null,
+                "summary": null
+            }
+        ],
+        "hallucinated_entities": [
+            "Golden Lotus Consortium"
+        ],
+        "unknown_entities": [],
+        "entity_authenticity_score": {
+            "score": 0.5,
+            "coverage": 1.0,
+            "raw_counts": {
+                "real": 1,
+                "hallucinated": 1,
+                "unknown": 0,
+                "total": 2
+            }
+        }
+    },
+    {
+        "timestamp": "2026-05-11 15:56:24.960403",
+        "sentence": "Zara Saeed, a fiery whistleblower, exposed corruption at the annual gala of the enigmatic Celestial Order in Tokyo.",
+        "entities": [
+            {
+                "entity": "Zara Saeed",
+                "label": "PERSON",
+                "exists": false,
+                "matched_title": null,
+                "summary": null
+            },
+            {
+                "entity": "Celestial Order",
+                "label": "ORG",
+                "exists": false,
+                "matched_title": null,
+                "summary": null
+            },
+            {
+                "entity": "Tokyo",
+                "label": "GPE",
+                "exists": "UNKNOWN",
+                "matched_title": null,
+                "summary": "Expecting value: line 1 column 1 (char 0)"
+            }
+        ],
+        "hallucinated_entities": [
+            "Zara Saeed",
+            "Celestial Order"
+        ],
+        "unknown_entities": [
+            "Tokyo"
+        ],
+        "entity_authenticity_score": {
+            "score": 0.0,
+            "coverage": 0.67,
+            "raw_counts": {
+                "real": 0,
+                "hallucinated": 2,
+                "unknown": 1,
+                "total": 3
+            }
+        }
+    },
+    {
+        "timestamp": "2026-05-11 15:56:37.703042",
+        "sentence": "Zara Rodriguez, a microbiologist for the World Wildlife Fund, discovered a rare species of glowworm in the Amazon rainforest.",
+        "entities": [
+            {
+                "entity": "Zara Rodriguez",
+                "label": "PERSON",
+                "exists": false,
+                "matched_title": null,
+                "summary": null
+            },
+            {
+                "entity": "World Wildlife Fund",
+                "label": "ORG",
+                "exists": true,
+                "matched_title": "World Wildlife Fund",
+                "summary": "The World Wide Fund for Nature (WWF) is a Swiss-based international non-governmental organization founded in 1961 that works in the field of wilderness preservation and the reduction of human impact o"
+            },
+            {
+                "entity": "Amazon",
+                "label": "LOC",
+                "exists": true,
+                "matched_title": "Amazon (company)",
+                "summary": "Amazon.com, Inc. (doing business as Amazon) is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. "
+            }
+        ],
+        "hallucinated_entities": [
+            "Zara Rodriguez"
+        ],
+        "unknown_entities": [],
+        "entity_authenticity_score": {
+            "score": 0.67,
+            "coverage": 1.0,
+            "raw_counts": {
+                "real": 2,
+                "hallucinated": 1,
+                "unknown": 0,
+                "total": 3
+            }
+        }
+    },
+    {
+        "timestamp": "2026-05-11 15:57:00.490871",
+        "sentence": "Lena Lee, a renowned film critic for The New Yorker, spent her summer vacation exploring the mystical landscapes of Tibet in search of inspiration for her next screenplay.",
+        "entities": [
+            {
+                "entity": "Lena Lee",
+                "label": "PERSON",
+                "exists": true,
+                "matched_title": "Lena King Lee",
+                "summary": "Lena King Lee (July 14, 1906 – August 24, 2006) was an American educator, attorney, and politician who entered politics at the age of 60 and became one of the first African-American women elected to t"
+            },
+            {
+                "entity": "New Yorker",
+                "label": "ORG",
+                "exists": true,
+                "matched_title": "The New Yorker",
+                "summary": "The New Yorker is an American magazine featuring journalism, commentary, criticism, essays, fiction, satire, cartoons, and poetry. It was founded on February 21, 1925, by Harold Ross and his wife Jane"
+            },
+            {
+                "entity": "Tibet",
+                "label": "GPE",
+                "exists": true,
+                "matched_title": "Tibet",
+                "summary": "Tibet ( ) is a region in the southwestern part of China, covering much of the Tibetan Plateau. It is the homeland of the Tibetans. Other ethnic groups also reside on the plateau, including Mongols, th"
+            }
+        ],
+        "hallucinated_entities": [],
+        "unknown_entities": [],
+        "entity_authenticity_score": {
+            "score": 1.0,
+            "coverage": 1.0,
+            "raw_counts": {
+                "real": 3,
+                "hallucinated": 0,
+                "unknown": 0,
+                "total": 3
+            }
+        }
+    },
+    {
+        "timestamp": "2026-05-11 15:57:26.686860",
+        "sentence": "Kaija Kivinen won a bronze medal for Finland at the International Cycling Union's World Championships in Varese.",
+        "entities": [
+            {
+                "entity": "Kaija Kivinen",
+                "label": "PERSON",
+                "exists": false,
+                "matched_title": null,
+                "summary": null
+            },
+            {
+                "entity": "Finland",
+                "label": "GPE",
+                "exists": true,
+                "matched_title": "Finland",
+                "summary": "Finland, or the Republic of Finland, is a Nordic country in Northern Europe. It borders Sweden to the northwest, Norway to the north, and Russia to the east, with the Gulf of Bothnia to the west and t"
+            },
+            {
+                "entity": "International Cycling Union's",
+                "label": "ORG",
+                "exists": false,
+                "matched_title": null,
+                "summary": null
+            },
+            {
+                "entity": "World Championships",
+                "label": "EVENT",
+                "exists": true,
+                "matched_title": "World Athletics Championships",
+                "summary": "The World Athletics Championships, known as the IAAF World Championships in Athletics until 2019, are a biennial athletics competition organized by World Athletics, formerly International Association "
+            },
+            {
+                "entity": "Varese",
+                "label": "GPE",
+                "exists": true,
+                "matched_title": "Varese",
+                "summary": "Varese (UK:  və-RAY-zay, -⁠zee, US:  var-AY-say; Italian: [vaˈreːze]  or [vaˈreːse]; Varesino: Varés [ʋaˈreːs]; Latin: Baretium; archaic German: Väris) is a city and comune in north-western Lombardy, "
+            }
+        ],
+        "hallucinated_entities": [
+            "Kaija Kivinen",
+            "International Cycling Union's"
+        ],
+        "unknown_entities": [],
+        "entity_authenticity_score": {
+            "score": 0.6,
+            "coverage": 1.0,
+            "raw_counts": {
+                "real": 3,
+                "hallucinated": 2,
+                "unknown": 0,
+                "total": 5
+            }
+        }
+    }
+]
